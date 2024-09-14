@@ -129,6 +129,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+kevy_venv
+
+# VSCode
+.vscode/settings.json
+.vscode/launch.json
+!vscode/extensions.json
 
 # Spyder project settings
 .spyderproject
